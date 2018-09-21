@@ -1,0 +1,49 @@
+#logo {
+	transition: all 0.5s ease 0s;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+}
+
+#logo:hover {
+	color: #badbff;
+}
+
+.fade {
+	opacity: 0;
+}
+
+.control {
+	color: #fff;
+	font-size: 2.0em;
+	transition: all 0.5s ease 0s;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+}
+
+.control:hover {
+	color: #badbff;
+}
+
+.cover {
+	padding: 40.0vh 1.5em 0;
+}
+
+.cover-containter {
+	max-width: 42em;
+}
+
+.lead {
+	margin: 2.0em 1.5em;
+}
+
+.lead i {
+	margin: 0 2.0rem;
+}
+
+body {
+	background: #030914;
+	color: #fff;
+	height: 100%;
+}
