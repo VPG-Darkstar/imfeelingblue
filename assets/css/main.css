@@ -24,6 +24,7 @@
 
 .control:hover {
 	color: #badbff;
+	cursor: pointer;
 }
 
 .cover {
