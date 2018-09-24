@@ -19,11 +19,7 @@ body {
 }
 
 .cover {
-	padding: 32.0vh 1.5em 0;
-}
-
-.cover-containter {
-	max-width: 42em;
+	padding: 27.0vh 1.5em;
 }
 
 .lead {
@@ -33,6 +29,7 @@ body {
 .lead i {
 	margin: 4.0rem 2.0rem;
 	float: center;
+  padding: 10.0vh 0 7.0vh;
 }
 
 .footer {
